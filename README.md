@@ -1,3 +1,3 @@
 # Newspaper layout 
 
-A simple newspaper layout creates with HTML and CSS
+A simple newspaper layout created with HTML and CSS
